@@ -1,0 +1,9 @@
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp12_g6\data_500kHz_1_12_110.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp11_g6\data_500kHz_1_11_110.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp10_g6\data_500kHz_1_10_110.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp9_g6\data_500kHz_1_9_100.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp8_g6\data_500kHz_1_8_100.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp7_g6\data_500kHz_1_7_100.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp9_g4\data_500kHz_1_9_130.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp8_g4\data_500kHz_1_8_130.txt
+C:\Users\KN125\Documents\Project_Owl_SPPIF_Work\Python_Main\500_pkt_sp7_g4\data_500kHz_1_7_120.txt
